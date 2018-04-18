@@ -254,8 +254,7 @@ Contributors
 `Muhammed Thanish <https://github.com/mnmtanish>`_
     * Making the `DDP Test Suite <https://github.com/meteorhacks/ddptest>`_ available.
 
-This project is forever grateful for the love, support and respect given
-by the awesome team at `Common Code`_.
+This project is forever grateful for the love
 
 .. _Django DDP: https://github.com/django-ddp/django-ddp
 .. _Django: https://www.djangoproject.com/
